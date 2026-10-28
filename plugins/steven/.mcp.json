@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "steven": {"type": "http", "url": "https://steven.2-29-136-53.nip.io/mcp"}
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "greenely",
+  "owner": {"name": "Greenely"},
+  "plugins": [
+    {"name": "steven", "source": "./plugins/steven", "description": "Steven, Greenelys marknadsassistent: siffror, bilder, röst och annonser med roller och ramar."}
+  ]
+}

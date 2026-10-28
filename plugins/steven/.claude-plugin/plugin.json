@@ -1,0 +1,6 @@
+{
+  "name": "steven",
+  "version": "0.1.0",
+  "description": "Steven, Greenelys marknadsassistent. Kräver inbjudan och Google-inloggning med ditt greenely.se-konto.",
+  "author": {"name": "Greenely"}
+}
